@@ -10,7 +10,7 @@
 #import <NetworkExtension/NetworkExtension.h>
 
 static NSString *const kOAXVPNServiceName = @"OAX_VPN"; //服务器名称
-static NSString *const kOAXVPNServiceAddress = @"104.129.181.59"; //服务器地址
+static NSString *const kOAXVPNServiceAddress = @"10.10.10.10"; //服务器地址
 static int kOAXVPNServicePort = 443; //服务器端口
 static NSString *const kOAXVPNServiceMethod = @"AES256CFB"; //服务器验证方式
 static NSString *const kOAXVPNPassword = @"ZGE1YmU1Mm"; //密码;
